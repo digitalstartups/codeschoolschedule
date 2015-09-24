@@ -3,7 +3,7 @@
 schedule files for trial digital startups code school. 
 *todo* separate these sections into files
 
-**Disclaimer: These software and methods of installation here are examples. Personally I install things inside a Vagrant box. If you don't know how to do this you proceed at your own peril. But TBH, IMO it's not that perilous unless you do something really stupid..**
+######**Disclaimer: The reccomended software and methods of installation below are examples to support learning. Personally I install things inside a Vagrant box so as not to risk my native OS. If you do not know how to do this you proceed at your own peril. But TBH, IMO it's not that perilous unless you do something really stupid.. Hopefully your mentor will suggest best practices and you will survive and not loose your child's entire lifetime of photos and then enter litigation against anyone... not that anyone claims anything here to be safe, althought it is, but no guarantees, but you'll be ok...**######
 
 # Birth!
 
