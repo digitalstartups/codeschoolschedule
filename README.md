@@ -3,6 +3,7 @@
 schedule files for trial digital startups code school. 
 *todo* separate these sections into files
 
+**Disclaimer: These software and methods of installation here are examples. Personally I install things inside a Vagrant box. If you don't know how to do this you proceed at your own peril. But TBH, IMO it's not that perilous unless you do something really stupid..**
 
 # Birth!
 
@@ -41,13 +42,13 @@ Optional Extra: [Ryans Tutorials: CSS Tutorial](http://ryanstutorials.net/css-tu
 
 
 # Crawling
-
-- hg/git 
+- Nodeschool.io - git-it
+- install [hg](https://mercurial.selenic.com/wiki/Download)/[git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - GitHub / Bitbucket (and DVCS)
 - Key pairs theory
 - ssh-keygen
 - Regex
-- Nodeschool.io - git-it
+
 - Ryan's tutorials
 - Nodeschool.io - scope-chains-closures
 - Nodeschool.io - learnyounode
