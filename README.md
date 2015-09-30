@@ -31,18 +31,12 @@ We are grossly biased toward *nix operating systems: This means you need a Mac w
 [Ryans Tutorials: Linux Tutorial](http://ryanstutorials.net/linuxtutorial/)
 
 ## Starting HTML/CSS
-[Khan Academy HTML/CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
-Optional Extra: [Ryans Tutorials: HTML Tutorial](http://ryanstutorials.net/html-tutorial/)
-Optional Extra: [Ryans Tutorials: CSS Tutorial](http://ryanstutorials.net/css-tutorial/)
+- [Khan Academy HTML/CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
+- Optional Extra: [Ryans Tutorials: HTML Tutorial](http://ryanstutorials.net/html-tutorial/)
+- Optional Extra: [Ryans Tutorials: CSS Tutorial](http://ryanstutorials.net/css-tutorial/)
 
 ##Starting Nodeschool.io - Javascripting
-[Nodeschool: Javascripting](https://github.com/sethvincent/javascripting)
-
-
-*TODO:*
-- braces
-- looping-through-arrays.js - iterators
-- array.map?
+- [Nodeschool: Javascripting](https://github.com/sethvincent/javascripting)
 
 
 # Crawling
@@ -51,7 +45,7 @@ Optional Extra: [Ryans Tutorials: CSS Tutorial](http://ryanstutorials.net/css-tu
 - GitHub / Bitbucket (and DVCS)
 - Key pairs theory
 - ssh-keygen
-- Regex
+- Regex + crossword
 
 - Ryan's tutorials
 - Nodeschool.io - scope-chains-closures
