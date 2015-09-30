@@ -9,6 +9,10 @@ schedule files for trial digital startups code school.
 
 We are grossly biased toward *nix operating systems: This means you need a Mac with OSX or an old laptop installed with a (preferably new) Ubuntu Linux distribution. Other distributions are fine but you may need to do some googling to get answers to things not covered in school sessions.
 
+## Background
+- [Talk/learn about how the underlying technology works](http://visual.ly/how-internet-works)
+- ask the mentor lots and lots of questions
+
 ## Environment setup
 - install OS (OSX/[Ubuntu](http://www.ubuntu.com/) or simiar Linux distribution)
 - install [brew](http://brew.sh/)/[aptitude](http://askubuntu.com/questions/311130/what-does-sudo-apt-get-install-aptitude-do)
