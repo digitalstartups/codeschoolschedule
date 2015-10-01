@@ -27,8 +27,8 @@ We are grossly biased toward *nix operating systems: This means you need a Mac w
 - a vim game: [Vim Adventures](http://vim-adventures.com/)
 
 ## Learning the command line
-[Codecademy Learn the command line](https://www.codecademy.com/en/courses/learn-the-command-line/) (3 hours)
-[Ryans Tutorials: Linux Tutorial](http://ryanstutorials.net/linuxtutorial/)
+- [Codecademy Learn the command line](https://www.codecademy.com/en/courses/learn-the-command-line/) (3 hours)
+- [Ryans Tutorials: Linux Tutorial](http://ryanstutorials.net/linuxtutorial/)
 
 ## Starting HTML/CSS
 - [Khan Academy HTML/CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
