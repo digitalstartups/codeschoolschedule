@@ -32,45 +32,53 @@ We are grossly biased toward *nix operating systems: This means you need a Mac w
 
 ## Starting HTML/CSS
 - [Khan Academy HTML/CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
-- Optional Extra: [Ryans Tutorials: HTML Tutorial](http://ryanstutorials.net/html-tutorial/)
-- Optional Extra: [Ryans Tutorials: CSS Tutorial](http://ryanstutorials.net/css-tutorial/)
+- Optional: [Ryans Tutorials: HTML Tutorial](http://ryanstutorials.net/html-tutorial/)
+- Optional: [Ryans Tutorials: CSS Tutorial](http://ryanstutorials.net/css-tutorial/)
 
-##Starting Nodeschool.io - Javascripting
+## Starting Nodeschool.io - Javascripting
 - [Nodeschool: Javascripting](https://github.com/sethvincent/javascripting)
 
 
 # Crawling
-- Nodeschool.io - git-it
-- install [hg](https://mercurial.selenic.com/wiki/Download)/[git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- install [hg](https://mercurial.selenic.com/wiki/Download) & [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - GitHub / Bitbucket (and DVCS)
-- Key pairs theory
-- ssh-keygen
-- Regex + crossword
-
-- Ryan's tutorials
-- Nodeschool.io - scope-chains-closures
-- Nodeschool.io - learnyounode
-
+- Key pairs theory - with Mentor
+- [Generating SSH Keys] (https://help.github.com/articles/generating-ssh-keys/)
+- [Ryan's Tutorials: Regex Basics](http://ryanstutorials.net/regular-expressions-tutorial/regular-expressions-basics.php)
+- Optional Extra: Play [Regex Crossword!](https://regexcrossword.com/)
+- [Nodeschool.io - git-it](https://github.com/jlord/git-it)
+- [Nodeschool.io - scope-chains-closures](https://github.com/jesstelford/scope-chains-closures)
+- [Nodeschool.io - learnyounode](https://github.com/workshopper/learnyounode)
+- [Nodeschool.io - how-to-npm](https://github.com/npm/how-to-npm)
 
 # First Steps
-
 DevOps - Ubuntu with ?
-Nodeschool.io - how-to-npm
-Nodeschool.io - stream-adventure
-
+- [Nodeschool.io - regex-adventure](https://github.com/substack/regex-adventure)
+- [Nodeschool.io - stream-adventure](https://github.com/substack/stream-adventure)
+- - tentative: [Nodeschool.io - lololodash](https://github.com/mdunisch/lololodash)
+- - tentative: [Nodeschool.io - planetproto](https://github.com/sporto/planetproto)
+- [Nodeschool.io - learn-sass](https://github.com/claudiopro/learn-sass)
+- [Nodeschool.io - bug-clinic](https://github.com/othiym23/bug-clinic)
+- - tentative: [Nodeschool.io - test-anything](https://github.com/finnp/test-anything)
+- [Nodeschool.io - expressworks](https://github.com/azat-co/expressworks)
+- [Nodeschool.io - levelmeup](https://github.com/workshopper/levelmeup)
+- [Nodeschool.io - browserify-adventure](https://github.com/substack/browserify-adventure)
 
 # Walking
-* not sure if this metaphor is going to work... *
-Nodeschool.io - functional-javascript-workshop
-Nodeschool.io - expressworks
-
+- [Nodeschool.io - functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop)
+- [Nodeschool.io - async-you](https://github.com/bulkan/async-you)
+- [Nodeschool.io - makemehapi](https://github.com/hapijs/makemehapi)
+- [Nodeschool.io - promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt)
+- [Nodeschool.io - learnyoumongo](https://github.com/evanlucas/learnyoumongo)
+- [Nodeschool.io - tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel)
 
 # Jogging
+- [Nodeschool.io - count-to-6](https://github.com/domenic/count-to-6)
+- [Nodeschool.io - learn-generators](https://github.com/isRuslan/learn-generators)
+- [Nodeschool.io - esnext-generation](https://github.com/jesstelford/esnext-generation)
+- [Nodeschool.io - learnyoureact](https://github.com/tako-black/learnyoureact)
+- [Nodeschool.io - learnyoucouchdb](https://github.com/robertkowalski/learnyoucouchdb)
 
+# Loping
+- [Nodeschool.io - kick-off-koa](https://github.com/koajs/kick-off-koa)
 
-- Nodeschool.io - esnext-generation
-- Nodeschool.io - promise-it-wont-hurt
-- Nodeschool.io - test-anything
-- Nodeschool.io - ?
-
-- 
