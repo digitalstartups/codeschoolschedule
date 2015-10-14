@@ -5,6 +5,8 @@ schedule files for trial digital startups code school.
 
 ######**Disclaimer: The reccomended software and methods of installation below are examples to support learning. Personally I install things inside a Vagrant box so as not to risk my native OS. If you do not know how to do this you proceed at your own peril. But TBH, IMO it's not that perilous unless you do something really stupid.. Hopefully your mentor will suggest best practices and you will survive and not loose your child's entire lifetime of photos and then enter litigation against anyone... not that anyone claims anything here to be safe, althought it is, but no guarantees, but you'll be ok...**######
 
+** TODO ** *Need to create a Python path in addition to Node*
+
 # Birth!
 
 We are grossly biased toward *nix operating systems: This means you need a Mac with OSX or an old laptop installed with a (preferably new) Ubuntu Linux distribution. Other distributions are fine but you may need to do some googling to get answers to things not covered in school sessions.
