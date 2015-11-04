@@ -55,6 +55,7 @@ We are grossly biased toward *nix operating systems: This means you need a Mac w
 - [Nodeschool.io - how-to-npm](https://github.com/npm/how-to-npm)
 
 # First Steps
+At this stage it's important to have got a handle on the Command Line and how HTML and CSS work before moving on
 DevOps - Ubuntu with ?
 - [Nodeschool.io - regex-adventure](https://github.com/substack/regex-adventure)
 - [Nodeschool.io - stream-adventure](https://github.com/substack/stream-adventure)
