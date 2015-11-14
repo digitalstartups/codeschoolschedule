@@ -65,18 +65,17 @@ DevOps - Ubuntu with ?
 - - tentative: [Nodeschool.io - lololodash](https://github.com/mdunisch/lololodash)
 - - tentative: [Nodeschool.io - planetproto](https://github.com/sporto/planetproto)
 - [Nodeschool.io - makemehapi](https://github.com/hapijs/makemehapi)
+- [Nodeschool.io - promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt)
 - [Nodeschool.io - learn-sass](https://github.com/claudiopro/learn-sass)
 - [Nodeschool.io - bug-clinic](https://github.com/othiym23/bug-clinic)
 - - tentative: [Nodeschool.io - test-anything](https://github.com/finnp/test-anything)
-- [Nodeschool.io - expressworks](https://github.com/azat-co/expressworks)
 - [Nodeschool.io - levelmeup](https://github.com/workshopper/levelmeup)
 - [Nodeschool.io - browserify-adventure](https://github.com/substack/browserify-adventure)
+- Optional Extra [Nodeschool.io - expressworks](https://github.com/azat-co/expressworks)
 
 # Walking
 - [Nodeschool.io - functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop)
 - [Nodeschool.io - async-you](https://github.com/bulkan/async-you)
-- [Nodeschool.io - makemehapi](https://github.com/hapijs/makemehapi)
-- [Nodeschool.io - promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt)
 - [Nodeschool.io - learnyoumongo](https://github.com/evanlucas/learnyoumongo)
 - [Nodeschool.io - tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel)
 
