@@ -32,7 +32,8 @@ We are grossly biased toward *nix operating systems: This means you need a Mac w
 - [Codecademy Learn the command line](https://www.codecademy.com/en/courses/learn-the-command-line/) (3 hours)
 - [Ryans Tutorials: Linux Tutorial](http://ryanstutorials.net/linuxtutorial/)
 
-## Starting HTML/CSS
+## Starting
+### Learning HTML/CSS/JS
 - [Khan Academy HTML/CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
 - Optional: [Ryans Tutorials: HTML Tutorial](http://ryanstutorials.net/html-tutorial/)
 - Optional: [Ryans Tutorials: CSS Tutorial](http://ryanstutorials.net/css-tutorial/)
@@ -41,10 +42,11 @@ We are grossly biased toward *nix operating systems: This means you need a Mac w
 - [Nodeschool: Javascripting](https://github.com/sethvincent/javascripting)
 
 
-# Crawling
+# Crawling 
+### Tools, Security, Version Control, and more JS
 - install [hg](https://mercurial.selenic.com/wiki/Download) & [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - GitHub / Bitbucket (and DVCS)
-- Key pairs theory - with Mentor
+- Key pairs theory - Mentor explanation + Q&A
 - [Generating SSH Keys] (https://help.github.com/articles/generating-ssh-keys/)
 - [Ryan's Tutorials: Regex Basics](http://ryanstutorials.net/regular-expressions-tutorial/regular-expressions-basics.php)
 - Optional Extra: Play [Regex Crossword!](https://regexcrossword.com/)
@@ -55,12 +57,14 @@ We are grossly biased toward *nix operating systems: This means you need a Mac w
 - [Nodeschool.io - how-to-npm](https://github.com/npm/how-to-npm)
 
 # First Steps
+### Server frameworks, SASS, and precompilers
 At this stage it's important to have got a handle on the Command Line and how HTML and CSS work before moving on
 DevOps - Ubuntu with ?
-- [Nodeschool.io - regex-adventure](https://github.com/substack/regex-adventure)
-- [Nodeschool.io - stream-adventure](https://github.com/substack/stream-adventure)
+- Optional Extra: [Nodeschool.io - regex-adventure](https://github.com/substack/regex-adventure)
+- Optional Extra: [Nodeschool.io - stream-adventure](https://github.com/substack/stream-adventure)
 - - tentative: [Nodeschool.io - lololodash](https://github.com/mdunisch/lololodash)
 - - tentative: [Nodeschool.io - planetproto](https://github.com/sporto/planetproto)
+- [Nodeschool.io - makemehapi](https://github.com/hapijs/makemehapi)
 - [Nodeschool.io - learn-sass](https://github.com/claudiopro/learn-sass)
 - [Nodeschool.io - bug-clinic](https://github.com/othiym23/bug-clinic)
 - - tentative: [Nodeschool.io - test-anything](https://github.com/finnp/test-anything)
