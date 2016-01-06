@@ -27,8 +27,6 @@ We are grossly biased toward *nix operating systems: This means you need a Mac w
 - watch/read/learn more **[vimcasts.org](http://vimcasts.org/)**
 - For later on: [vimgolf](https://github.com/igrigorik/vimgolf) or [vimgolf site](vimgolf.com)
 - a vim game: [Vim Adventures](http://vim-adventures.com/)
-
-
 - Learn/Install [Slack](https://slack.com/)
 - Learn/Install [Lastpass](https://lastpass.com/) - or [Chrome extension](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
 
