@@ -55,6 +55,7 @@ We are grossly biased toward *nix operating systems: This means you need a Mac w
 - Optional Extra: Play [Regex Crossword!](https://regexcrossword.com/)
 - [Nodeschool.io - git-it](https://github.com/jlord/git-it)
 - Reference: [Git Book](https://git-scm.com/book/en/v2)
+- Optional: [Joel Spolsky's Mercurial Tutorial](http://hginit.com/)
 - [Tutorial Republic](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/)
 - [Nodeschool.io - scope-chains-closures](https://github.com/jesstelford/scope-chains-closures)
 - [Nodeschool.io - learnyounode](https://github.com/workshopper/learnyounode)
