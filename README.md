@@ -30,7 +30,7 @@ We are grossly biased toward *nix operating systems: This means you need a Mac w
 
 ## Learning the command line
 - [Codecademy Learn the command line](https://www.codecademy.com/en/courses/learn-the-command-line/) (3 hours)
-- [Ryans Tutorials: Linux Tutorial](http://ryanstutorials.net/linuxtutorial/)
+- Optional: [Ryans Tutorials: Linux Tutorial](http://ryanstutorials.net/linuxtutorial/)
 
 ## Starting
 ### Learning HTML/CSS/JS
