@@ -48,6 +48,7 @@ We are grossly biased toward *nix operating systems: This means you need a Mac w
 ### Tools, Security, Version Control, and more JS
 - install [hg](https://mercurial.selenic.com/wiki/Download) & [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - GitHub / Bitbucket (and DVCS)
+- [Learn about Markdown](http://markdowntutorial.com/)
 - Key pairs theory - Mentor explanation + Q&A
 - [Generating SSH Keys] (https://help.github.com/articles/generating-ssh-keys/)
 - [Ryan's Tutorials: Regex Basics](http://ryanstutorials.net/regular-expressions-tutorial/regular-expressions-basics.php)
