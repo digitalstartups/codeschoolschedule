@@ -18,6 +18,7 @@ We are grossly biased toward *nix operating systems: This means you need a Mac w
 ## Environment setup
 - install OS (OSX/[Ubuntu](http://www.ubuntu.com/) or simiar Linux distribution)
 - install [brew](http://brew.sh/)/[aptitude](http://askubuntu.com/questions/311130/what-does-sudo-apt-get-install-aptitude-do)
+- install / update vim [OSX help](http://www.prioritized.net/blog/upgrading-vim-on-os-x/)
 - discuss vim (and why)
 - watch **[Vim: Precision editing at the speed of thought](https://vimeo.com/53144573)**
 - install [node](https://nodejs.org/en/download/)
