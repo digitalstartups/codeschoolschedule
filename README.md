@@ -19,9 +19,15 @@ We are grossly biased toward *nix operating systems: This means you need a Mac w
 - install [brew](http://brew.sh/)/[aptitude](http://askubuntu.com/questions/311130/what-does-sudo-apt-get-install-aptitude-do)
 - upgrade terminal: [OSX - iTerm2](https://www.iterm2.com/downloads.html)
 - install / update vim [OSX help](http://www.prioritized.net/blog/upgrading-vim-on-os-x/)
-- discuss vim (and why)
+- discuss vim (#TODO why)
+- vscode with vim (#TODO why)
 - watch **[Vim: Precision editing at the speed of thought](https://vimeo.com/53144573)**
+
+# todo nvm
+# todo update apt-get and brew + brew doctor + xcode
+
 - install [node](https://nodejs.org/en/download/)
+
 #TODO brew install yarn
 
 
