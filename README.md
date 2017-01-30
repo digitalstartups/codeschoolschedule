@@ -51,7 +51,7 @@ We are grossly biased toward *nix operating systems: This means you need a Mac w
 
 ## Starting Nodeschool.io - Javascripting
 - [Nodeschool: Javascripting](https://github.com/sethvincent/javascripting)
-
+- [Mutating vs non-mutating array methods](http://lorenstewart.me/2017/01/22/javascript-array-methods-mutating-vs-non-mutating/) (worth reviewing when you get to the "Looping through arrays" lesson
 
 #TODO ES6 intro:
 # https://github.com/kentcdodds/es6-workshop
