@@ -15,16 +15,29 @@ This schedule is grossly biased toward *nix operating systems: This means you ne
 
 
 ## On the Schedule:
+
+### Basic I
+#### Environment Setup
 #### [How the internet works](http://visual.ly/how-internet-works)
 #### HTML
+#### Command Line Basics
+
+### Basic II
 #### CSS / SASS
 #### Core Javascript
 #### Version control with Git
 
+### Intermediate I
 #### Node development
+#### Browser-based Javascript development
+#### Front-end tooling
+#### React development
 
+### Intermediate II
+Todo
 
-
+### Advanced
+Todo
 
 ## Environment setup
 - install OS (OSX/[Ubuntu](http://www.ubuntu.com/) or simiar Linux distribution)
