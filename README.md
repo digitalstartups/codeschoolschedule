@@ -23,12 +23,12 @@ We are grossly biased toward *nix operating systems: This means you need a Mac w
 - vscode with vim (#TODO why)
 - watch **[Vim: Precision editing at the speed of thought](https://vimeo.com/53144573)**
 
-# todo nvm
-# todo update apt-get and brew + brew doctor + xcode
+todo nvm
+todo update apt-get and brew + brew doctor + xcode
 
 - install [node](https://nodejs.org/en/download/)
 
-#TODO brew install yarn
+todo brew install yarn
 
 
 ## Tooling
