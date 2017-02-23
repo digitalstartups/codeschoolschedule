@@ -10,12 +10,22 @@ Based on technologies identified in:
 from Frontend Masters and using lessons from:
   [Nodeschool](https://nodeschool.io/), [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
 
-# Birth!
-We are grossly biased toward *nix operating systems: This means you need a Mac with OSX or an old laptop installed with a (preferably new) Ubuntu Linux distribution. Other distributions are fine but you may need to do some googling to get answers to things not covered in school sessions.
+# Intro
+This schedule is grossly biased toward *nix operating systems: This means you need a Mac with OSX or an old laptop installed with a (preferably new) Ubuntu Linux distribution. Other distributions are fine but you may need to do some googling to get answers to things not covered in school sessions.
 
 ## Background
-- [Talk/learn about how the underlying technology works](http://visual.ly/how-internet-works)
-- ask the mentor lots and lots of questions
+- [How the internet works](http://visual.ly/how-internet-works)
+
+### On the Schedule:
+#### HTML
+#### CSS / SASS
+#### Core Javascript
+#### Version control with Git
+
+#### Node development
+
+
+
 
 ## Environment setup
 - install OS (OSX/[Ubuntu](http://www.ubuntu.com/) or simiar Linux distribution)
