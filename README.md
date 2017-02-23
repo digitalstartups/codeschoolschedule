@@ -3,11 +3,14 @@
 schedule files for trial Digital Startups code school. 
 *todo* separate these sections into files
 
-######**Disclaimer: The recommended software and methods of installation below are examples to support learning. Personally I install things inside a Vagrant box so as not to risk my native OS. If you do not know how to do this you proceed at your own peril. But TBH, IMO it's not that perilous unless you do something really stupid.. Hopefully your mentor will suggest best practices and you will survive and not loose your child's entire lifetime of photos and then enter litigation against anyone... not that anyone claims anything here to be safe, althought it is, but no guarantees, but you'll be ok...**######
-
+######**Disclaimer: Read Install Docs for any software installed here**######
+Based on technologies identified in:
+  [Front End Developer Handbook 2016](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/recap.html)
+  [Front End Developer Handbook 2016](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/2017.html)
+from Frontend Masters and using lessons from:
+  [Nodeschool](https://nodeschool.io/), [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
 
 # Birth!
-
 We are grossly biased toward *nix operating systems: This means you need a Mac with OSX or an old laptop installed with a (preferably new) Ubuntu Linux distribution. Other distributions are fine but you may need to do some googling to get answers to things not covered in school sessions.
 
 ## Background
