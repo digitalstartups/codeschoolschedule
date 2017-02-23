@@ -13,10 +13,9 @@ from Frontend Masters and using lessons from:
 # Intro
 This schedule is grossly biased toward *nix operating systems: This means you need a Mac with OSX or an old laptop installed with a (preferably new) Ubuntu Linux distribution. Other distributions are fine but you may need to do some googling to get answers to things not covered in school sessions.
 
-## Background
-- [How the internet works](http://visual.ly/how-internet-works)
 
-### On the Schedule:
+## On the Schedule:
+#### [How the internet works](http://visual.ly/how-internet-works)
 #### HTML
 #### CSS / SASS
 #### Core Javascript
