@@ -53,11 +53,11 @@ todo brew install yarn
 - [Nodeschool: Javascripting](https://github.com/sethvincent/javascripting)
 - [Mutating vs non-mutating array methods](http://lorenstewart.me/2017/01/22/javascript-array-methods-mutating-vs-non-mutating/) (worth reviewing when you get to the "Looping through arrays" lesson
 
-#TODO ES6 intro:
-# https://github.com/kentcdodds/es6-workshop
-# checkout https://github.com/jesstelford/esnext-generation
-# checkout https://github.com/yosuke-furukawa/tower-of-babel
-# where does this fit: https://github.com/kohei-takata/learnyoureact
+TODO ES6 intro:
+ https://github.com/kentcdodds/es6-workshop
+ checkout https://github.com/jesstelford/esnext-generation
+ checkout https://github.com/yosuke-furukawa/tower-of-babel
+ where does this fit: https://github.com/kohei-takata/learnyoureact
 
 
 # Crawling 
