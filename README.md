@@ -18,14 +18,17 @@ This schedule is grossly biased toward *nix operating systems: This means you ne
 
 ### Basic I
 #### Environment Setup
+#### Tooling
 #### [How the internet works](http://visual.ly/how-internet-works)
 #### HTML
 #### Command Line Basics
+#### Version control with Git
 
 ### Basic II
-#### CSS / SASS
+#### CSS / SASS / PostCSS
+#### Twitter Bootstrap 3/4
 #### Core Javascript
-#### Version control with Git
+
 
 ### Intermediate I
 #### Node development
