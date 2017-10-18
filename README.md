@@ -1,111 +1,112 @@
-#Code School - JavaScript Schedule
+# DS Code School - JavaScript Schedule
 
-schedule files for trial Digital Startups code school. 
-*todo* separate these sections into files
-
-######**Disclaimer: Read Install Docs for any software installed here**######
+#### **Disclaimer: Read Install Docs for any software installed here** ####
 Based on technologies identified in:
-  [Front End Developer Handbook 2016](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/recap.html)
-  [Front End Developer Handbook 2016](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/2017.html)
-from Frontend Masters and using lessons from:
-  [Nodeschool](https://nodeschool.io/), [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
+  [HackReactor Prep Course](https://www.hackreactor.com/prep-programs/)
+  
+  [Front End Developer Handbook 2017 - Frontend Masters](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/2017.html)
+  
+  [Nodeschool](https://nodeschool.io/)
+  
+  [Khan Academy](https://www.khanacademy.org)
+  
 
-# Intro
-This schedule is grossly biased toward *nix operating systems: This means you need a Mac with OSX or an old laptop installed with a (preferably new) Ubuntu Linux distribution. Other distributions are fine but you may need to do some googling to get answers to things not covered in school sessions.
-
-
-## On the Schedule:
-
-### Basic I
-#### Environment Setup
-#### Tooling
-#### [How the internet works](http://visual.ly/how-internet-works)
-#### HTML
-#### Command Line Basics
-#### Version control with Git
-
-### Basic II
-#### CSS / SASS / PostCSS
-#### Twitter Bootstrap 3/4
-#### Core Javascript
-
-
-### Intermediate I
-#### Node development
-#### Browser-based Javascript development
-#### Front-end tooling
-#### React development
-
-### Intermediate II
-Todo
-
-### Advanced
-Todo
+# Basic
+This schedule is grossly biased toward *nix operating systems: This means you need a Mac with OSX or an old laptop installed with a (preferably new) Debian/Ubuntu Linux distribution.
 
 ## Environment setup
-- install OS (OSX/[Ubuntu](http://www.ubuntu.com/) or simiar Linux distribution)
+We need to install development tools and editors. We don't know which editor will suit a person so let's keep options open.
 - install [brew](http://brew.sh/)/[aptitude](http://askubuntu.com/questions/311130/what-does-sudo-apt-get-install-aptitude-do)
-- upgrade terminal: [OSX - iTerm2](https://www.iterm2.com/downloads.html)
+- sudo apt-get update or brew update / brew doctor, xcode update, xcode-select --install
+- install iTerm or Terminator (Linux): [OSX - iTerm2](https://www.iterm2.com/downloads.html)
 - install / update vim [OSX help](http://www.prioritized.net/blog/upgrading-vim-on-os-x/)
-- discuss vim (#TODO why)
-- vscode with vim (#TODO why)
+- install VS Code with vim (#TODO why)
+- install Atom with vim
 - watch **[Vim: Precision editing at the speed of thought](https://vimeo.com/53144573)**
 
-todo nvm
-todo update apt-get and brew + brew doctor + xcode
-
+Update system node:
 - install [node](https://nodejs.org/en/download/)
 
-todo brew install yarn
+We will use nvm to manage node versions we may need:
+- install [nvm](https://github.com/creationix/nvm)
+
+We may need yarn, an alternative node package manager:
+- brew install yarn --without-node
 
 
-## Tooling
+## [How the internet works](http://visual.ly/how-internet-works)
+- Networks
+- Servers
+- Clients (Web, News, Email)
+
+
+## Tooling & Tool practice
 - [shortcutfoo](https://www.shortcutfoo.com/) Vim units 1 & 2 (free - for now)
 - watch/read/learn more **[vimcasts.org](http://vimcasts.org/)**
 - For later on: [vimgolf](https://github.com/igrigorik/vimgolf) or [vimgolf site](vimgolf.com)
 - a vim game: [Vim Adventures](http://vim-adventures.com/)
-- Learn/Install [Slack](https://slack.com/)
-- Learn/Install [Lastpass](https://lastpass.com/) - or [Chrome extension](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
+- Learn/Install [Slack](https://slack.com/) - for team communication
 
-## Learning the command line
-- [Codecademy Learn the command line](https://www.codecademy.com/en/courses/learn-the-command-line/) (3 hours)
-- Optional: [Ryans Tutorials: Linux Tutorial](http://ryanstutorials.net/linuxtutorial/)
 
-## Starting
-### Learning HTML/CSS/JS
+## Learning HTML/CSS/JQuery
+- Nodeschool HTML
 - [Khan Academy HTML/CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
 - Optional: [Ryans Tutorials: HTML Tutorial](http://ryanstutorials.net/html-tutorial/)
 - Optional: [Ryans Tutorials: CSS Tutorial](http://ryanstutorials.net/css-tutorial/)
+- [JQuery - Codecademy](https://www.codecademy.com/tracks/jquery) (3 hours)
 
-## Starting Nodeschool.io - Javascripting
+
+## Learning the command line
+- [Learn the command line - Codecademy](https://www.codecademy.com/en/courses/learn-the-command-line/) (3 hours)
+- Optional: [Ryans Tutorials: Linux Tutorial](http://ryanstutorials.net/linuxtutorial/)
+
+
+
+# Basic II
+This section is about learning the basics of JavaScript and how version control and authentication tools work
+
+## Basic Javascript
 - [Nodeschool: Javascripting](https://github.com/sethvincent/javascripting)
 - [Mutating vs non-mutating array methods](http://lorenstewart.me/2017/01/22/javascript-array-methods-mutating-vs-non-mutating/) (worth reviewing when you get to the "Looping through arrays" lesson
-
-TODO ES6 intro:
- https://github.com/kentcdodds/es6-workshop
- checkout https://github.com/jesstelford/esnext-generation
- checkout https://github.com/yosuke-furukawa/tower-of-babel
- where does this fit: https://github.com/kohei-takata/learnyoureact
+- [Nodeschool.io - scope-chains-closures](https://github.com/jesstelford/scope-chains-closures)
 
 
-# Crawling 
-### Tools, Security, Version Control, and more JS
+## Tools, Security, Version Control
+Control code versions can be difficult, especially when there is more than one person, and more so when the team is distributed. Distributed version control systems (DVCS) help to organise code and store it in the cloud for collaboration, security, and accessibility
+
+### Install the tools
 - install [hg](https://mercurial.selenic.com/wiki/Download) & [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - GitHub / Bitbucket (and DVCS)
-- [Learn about Markdown](http://markdowntutorial.com/)
+- [Learn about Markdown](http://markdowntutorial.com/) - nodeschool
+
+### Key pairs and authentication talk
 - Key pairs theory - Mentor explanation + Q&A
 - [Generating SSH Keys] (https://help.github.com/articles/generating-ssh-keys/)
-- [Ryan's Tutorials: Regex Basics](http://ryanstutorials.net/regular-expressions-tutorial/regular-expressions-basics.php)
-- Optional Extra: Play [Regex Crossword!](https://regexcrossword.com/)
 - [Nodeschool.io - git-it](https://github.com/jlord/git-it)
 - Reference: [Git Book](https://git-scm.com/book/en/v2)
 - Optional: [Joel Spolsky's Mercurial Tutorial](http://hginit.com/)
-- Twitter Bootstrap tutorial (advanced HTML/CSS) [Tutorial Republic](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/)
-- [Nodeschool.io - scope-chains-closures](https://github.com/jesstelford/scope-chains-closures)
+
+
+# Intermediate
+## Regex
+Regular Expressions (Regex) are used to 'pattern-match' strings, urls, data, and more. They are simple and effective, and usually fast to use
+
+- [Ryan's Tutorials: Regex Basics](http://ryanstutorials.net/regular-expressions-tutorial/regular-expressions-basics.php)
+- Optional Extra: Play [Regex Crossword!](https://regexcrossword.com/)
+
+## node.js
+Node.js is the Server-side part of JavaScript that facilitates development build tools and other command line software, and servers.
 - [Nodeschool.io - learnyounode](https://github.com/workshopper/learnyounode)
+
+## NPM
+NPM is a tool for downloading JS packages/libraries from the NPM site.
 - [Nodeschool.io - how-to-npm](https://github.com/npm/how-to-npm)
 
-# First Steps
+## JavaScript: ES6 and more
+- [Nodeschool.io - count-to-6](https://github.com/domenic/count-to-6)
+
+
+# Intermediate II
 ### Server frameworks, SASS, and precompilers
 At this stage it's important to have got a handle on the Command Line and how HTML and CSS work before moving on
 DevOps - Ubuntu with ?
@@ -129,12 +130,113 @@ DevOps - Ubuntu with ?
 - [Nodeschool.io - tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel)
 
 # Jogging
-- [Nodeschool.io - count-to-6](https://github.com/domenic/count-to-6)
+
 - [Nodeschool.io - learn-generators](https://github.com/isRuslan/learn-generators)
 - [Nodeschool.io - esnext-generation](https://github.com/jesstelford/esnext-generation)
 - [Nodeschool.io - learnyoureact](https://github.com/tako-black/learnyoureact)
 - [Nodeschool.io - learnyoucouchdb](https://github.com/robertkowalski/learnyoucouchdb)
 
-# Loping
-- [Nodeschool.io - kick-off-koa](https://github.com/koajs/kick-off-koa)
+
+TODO ES6 intro:
+ https://github.com/kentcdodds/es6-workshop
+ checkout https://github.com/jesstelford/esnext-generation
+ checkout https://github.com/yosuke-furukawa/tower-of-babel
+ where does this fit: https://github.com/kohei-takata/learnyoureact
+ 
+
+- Twitter Bootstrap tutorial (advanced HTML/CSS) [Tutorial Republic](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/)
+
+
+Notes:
+
+Machine setup
+Editors: VS Code, Atom, Code Pen, Vim
+
+Basic JS
+
+Recursion - Advanced looping algorithms
+
+Higher Order Functions - Currying and functional programming
+
+HTML, CSS, JQuery - Basic web development, nodeschool, codeacademy
+
+Github - DVCS (distributed version control systems)
+
+Linux Cmd Line - server navigation/administration
+
+
+Engineering Craftsmanship - Thinking right
+
+Good clean code - how and why, style guides/coding styles
+
+Technical communication - ?
+
+Empathetic communication in teams - ?
+
+Data Structures - designing and handling data
+
+JS Instantiation patterns - ?
+
+JS:
+ES5, ES6, Asynchronous Code, Promises
+
+Client Side:
+MVC, AJAX, Frameworks, Tools
+
+Server Side:
+node.js, npm, express.js, authentication
+
+
+Deployment:
+Heroku
+Digital Ocean, EC2
+Serverless
+
+Databases and storage concepts:
+SQL
+MongoDB
+ORMs
+Redis
+
+## PROJECTS
+Basic Apps:
+project?
+
+Legacy code:
+?
+
+New Languages:
+Go? Python? Elm?
+
+
+New Technologies - ?
+
+Testing - ? TDD, 
+
+Continuous Development - faster feedback, faster development, more focus, higher quality code, more engagement
+
+
+TEAMS:
+Agile - vs waterfall?
+
+Iterative development
+
+Advanced git techniques - ?
+
+
+Job Prep:
+study plan, daily schedule
+
+Job materials:
+CV, Cover letter, Social (Li, AngelList)
+
+Applications/Companies:
+Company Culture - an emergent property
+
+App life cycle
+
+Opportunities
+
+Portfolio??
+
 
