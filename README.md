@@ -15,7 +15,7 @@ Based on technologies identified in:
 This schedule is grossly biased toward *nix operating systems: This means you need a Mac with OSX or an old laptop installed with a (preferably new) Debian/Ubuntu Linux distribution.
 
 ## Environment setup
-<img src="http://i.imgur.com/g9LiMF9.jpg" width="480">
+<img src="http://i.imgur.com/g9LiMF9.jpg" width="640">
 We need to install development tools and editors. We don't know which editor will suit a person so let's keep options open.
 
 *SWBAT: install packages, upgrade the terminal, show basic familiarity with editors, see accelerated development with vi/vim*
@@ -41,7 +41,7 @@ We may need yarn, an alternative node package manager:
 
 
 ## [How the internet works talk](http://visual.ly/how-internet-works)
-![](https://i.imgur.com/xvE6YHS.jpg | width=480)
+<img src="https://i.imgur.com/xvE6YHS.jpg" width="640">
 *SWBAT: Get a broad perspective of how the internet works, how web applications work*
 - Networks
 - Servers
