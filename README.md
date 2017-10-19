@@ -41,6 +41,7 @@ We may need yarn, an alternative node package manager:
 
 ## [How the internet works talk](http://visual.ly/how-internet-works)
 *SWBAT: Get a broad perspective of how the internet works, how web applications work*
+[](https://i.imgur.com/xvE6YHS.jpg)
 - Networks
 - Servers
 - Clients (Web, News, Email)
