@@ -1,4 +1,4 @@
-# DS Code School - JavaScript Schedule
+# DS Open Code School - JavaScript Schedule
 
 #### **Disclaimer: Read Install Docs for any software installed here** ####
 Based on technologies identified in:
@@ -16,6 +16,8 @@ This schedule is grossly biased toward *nix operating systems: This means you ne
 
 ## Environment setup
 We need to install development tools and editors. We don't know which editor will suit a person so let's keep options open.
+
+*SWBAT: install packages, upgrade the terminal, show basic familiarity with editors, see accelerated development with vi/vim*
 - install [brew](http://brew.sh/)/[aptitude](http://askubuntu.com/questions/311130/what-does-sudo-apt-get-install-aptitude-do)
 - sudo apt-get update or brew update / brew doctor, xcode update, xcode-select --install
 - install iTerm or Terminator (Linux): [OSX - iTerm2](https://www.iterm2.com/downloads.html)
@@ -25,22 +27,27 @@ We need to install development tools and editors. We don't know which editor wil
 - watch **[Vim: Precision editing at the speed of thought](https://vimeo.com/53144573)**
 
 Update system node:
+*SWBAT: Install / upgrade the system node from nodejs.org, know where to get node.js from*
 - install [node](https://nodejs.org/en/download/)
 
 We will use nvm to manage node versions we may need:
+*SWBAT: Install nvm, change node version*
 - install [nvm](https://github.com/creationix/nvm)
 
 We may need yarn, an alternative node package manager:
+*SWBAT: Install yarn, show familiarity with yarn*
 - brew install yarn --without-node
 
 
-## [How the internet works](http://visual.ly/how-internet-works)
+## [How the internet works talk](http://visual.ly/how-internet-works)
+*SWBAT: Get a broad perspective of how the internet works, how web applications work*
 - Networks
 - Servers
 - Clients (Web, News, Email)
 
 
 ## Tooling & Tool practice
+*SWBAT: Become familiar with vi/vim, know how to communicate with different teams in Slack*
 - [shortcutfoo](https://www.shortcutfoo.com/) Vim units 1 & 2 (free - for now)
 - watch/read/learn more **[vimcasts.org](http://vimcasts.org/)**
 - For later on: [vimgolf](https://github.com/igrigorik/vimgolf) or [vimgolf site](vimgolf.com)
@@ -49,6 +56,7 @@ We may need yarn, an alternative node package manager:
 
 
 ## Learning HTML/CSS/JQuery
+*SWBAT: HTML syntax and usage, HTML structures, CSS syntax and purpose, JQuery basics (for manipulating HTML/CSS elements)*
 - Nodeschool HTML
 - [Khan Academy HTML/CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
 - Optional: [Ryans Tutorials: HTML Tutorial](http://ryanstutorials.net/html-tutorial/)
@@ -57,6 +65,7 @@ We may need yarn, an alternative node package manager:
 
 
 ## Learning the command line
+*SWBAT: Navigate around the command line, be familiar with basic command line tools*
 - [Learn the command line - Codecademy](https://www.codecademy.com/en/courses/learn-the-command-line/) (3 hours)
 - Optional: [Ryans Tutorials: Linux Tutorial](http://ryanstutorials.net/linuxtutorial/)
 
@@ -66,6 +75,7 @@ We may need yarn, an alternative node package manager:
 This section is about learning the basics of JavaScript and how version control and authentication tools work
 
 ## Basic Javascript
+*SWBAT: Understand basic JavaScript syntax, understand basic JavaScript data structures, read/write code with regards to scope*
 - [Nodeschool: Javascripting](https://github.com/sethvincent/javascripting)
 - [Mutating vs non-mutating array methods](http://lorenstewart.me/2017/01/22/javascript-array-methods-mutating-vs-non-mutating/) (worth reviewing when you get to the "Looping through arrays" lesson
 - [Nodeschool.io - scope-chains-closures](https://github.com/jesstelford/scope-chains-closures)
@@ -239,4 +249,4 @@ Opportunities
 
 Portfolio??
 
-
+*SWBAT: *
