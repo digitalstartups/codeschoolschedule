@@ -59,11 +59,12 @@ We may need yarn, an alternative node package manager:
 
 
 ## Learning HTML/CSS/JQuery
-*SWBAT: HTML syntax and usage, HTML structures, CSS syntax and purpose, JQuery basics (for manipulating HTML/CSS elements)*
-- Nodeschool HTML
+*SWBAT: HTML syntax and usage, HTML structures, Markdown, CSS syntax and purpose, JQuery basics (for manipulating HTML/CSS elements)*
+- [Nodeschool: LearnYouHTML](https://github.com/denysdovhan/learnyouhtml)
 - [Khan Academy HTML/CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
 - Optional: [Ryans Tutorials: HTML Tutorial](http://ryanstutorials.net/html-tutorial/)
 - Optional: [Ryans Tutorials: CSS Tutorial](http://ryanstutorials.net/css-tutorial/)
+- [Nodeschool: How to Markdown](https://github.com/workshopper/how-to-markdown)
 - [JQuery - Codecademy](https://www.codecademy.com/tracks/jquery) (3 hours)
 
 
@@ -94,7 +95,7 @@ Control code versions can be difficult, especially when there is more than one p
 
 ### Key pairs and authentication talk
 - Key pairs theory - Mentor explanation + Q&A
-- [Generating SSH Keys] (https://help.github.com/articles/generating-ssh-keys/)
+- [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys/)
 - [Nodeschool.io - git-it](https://github.com/jlord/git-it)
 - Reference: [Git Book](https://git-scm.com/book/en/v2)
 - Optional: [Joel Spolsky's Mercurial Tutorial](http://hginit.com/)
