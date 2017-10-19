@@ -40,7 +40,7 @@ We may need yarn, an alternative node package manager:
 - brew install yarn --without-node
 
 
-## [How the internet works talk](http://visual.ly/how-internet-works)
+## [How the internet works (infographic)](http://visual.ly/how-internet-works)
 <img src="https://i.imgur.com/xvE6YHS.jpg" width="640">
 *SWBAT: Get a broad perspective of how the internet works, how web applications work*
 - Networks
