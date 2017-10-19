@@ -15,7 +15,7 @@ Based on technologies identified in:
 This schedule is grossly biased toward *nix operating systems: This means you need a Mac with OSX or an old laptop installed with a (preferably new) Debian/Ubuntu Linux distribution.
 
 ## Environment setup
-![](http://i.imgur.com/g9LiMF9.jpg | width=480)
+![](http://i.imgur.com/g9LiMF9.jpg | width="480")
 We need to install development tools and editors. We don't know which editor will suit a person so let's keep options open.
 
 *SWBAT: install packages, upgrade the terminal, show basic familiarity with editors, see accelerated development with vi/vim*
