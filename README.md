@@ -11,7 +11,7 @@ Based on technologies identified in:
   [Khan Academy](https://www.khanacademy.org)
   
 
-# Basic
+# Basic I (Setup and web-dev basics)
 This schedule is grossly biased toward *nix operating systems: This means you need a Mac with OSX or an old laptop installed with a (preferably new) Debian/Ubuntu Linux distribution.
 
 ## Environment setup
@@ -75,10 +75,11 @@ We may need yarn, an alternative node package manager:
 
 
 
-# Basic II
+# Basic II (Basic JavaScript and tooling)
+<img src="http://i.imgur.com/6aclmM6.png" width="640">
 This section is about learning the basics of JavaScript and how version control and authentication tools work
 
-## Basic Javascript
+## Basic JavaScript
 *SWBAT: Understand basic JavaScript syntax, understand basic JavaScript data structures, read/write code with regards to scope*
 - [Nodeschool: Javascripting](https://github.com/sethvincent/javascripting)
 - [Mutating vs non-mutating array methods](http://lorenstewart.me/2017/01/22/javascript-array-methods-mutating-vs-non-mutating/) (worth reviewing when you get to the "Looping through arrays" lesson
