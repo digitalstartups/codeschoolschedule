@@ -138,19 +138,19 @@ DevOps - Ubuntu with ?
 - [Nodeschool.io - browserify-adventure](https://github.com/substack/browserify-adventure)
 - Optional Extra [Nodeschool.io - expressworks](https://github.com/azat-co/expressworks)
 
-# Walking
+# Advanced I
 - [Nodeschool.io - functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop)
 - [Nodeschool.io - async-you](https://github.com/bulkan/async-you)
 - [Nodeschool.io - learnyoumongo](https://github.com/evanlucas/learnyoumongo)
 - [Nodeschool.io - tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel)
 
-# Jogging
+# Advanced II
 
 - [Nodeschool.io - learn-generators](https://github.com/isRuslan/learn-generators)
 - [Nodeschool.io - esnext-generation](https://github.com/jesstelford/esnext-generation)
 - [Nodeschool.io - learnyoureact](https://github.com/tako-black/learnyoureact)
 - [Nodeschool.io - learnyoucouchdb](https://github.com/robertkowalski/learnyoucouchdb)
-
+- [React Enlightenment Gitbook](https://www.reactenlightenment.com/)
 
 TODO ES6 intro:
  https://github.com/kentcdodds/es6-workshop
