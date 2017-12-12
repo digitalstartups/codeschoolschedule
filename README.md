@@ -21,8 +21,12 @@ We need to install development tools and editors. We don't know which editor wil
 *SWBAT: install packages, upgrade the terminal, show basic familiarity with editors, (optional:see accelerated development with vi/vim*)
 - install Terminator (Linux) or [iTerm2](https://www.iterm2.com/downloads.html)(OSX) (A better terminal experience)
 - install [brew](http://brew.sh/)(OSX)/[aptitude](http://askubuntu.com/questions/311130/what-does-sudo-apt-get-install-aptitude-do)(Linux)
-- Linux: sudo apt-get update 
-- or OSX: brew update / brew doctor, xcode update, xcode-select --install
+- Linux: 
+    sudo apt-get update 
+- or OSX: 
+    xcode-select --install
+    brew doctor
+    
 - install [VS Code](https://code.visualstudio.com/) (optional: with vim plugins) (#TODO why)
 
 (Optional)
@@ -31,7 +35,13 @@ We need to install development tools and editors. We don't know which editor wil
 - install Atom with vim
 - watch **[Vim: Precision editing at the speed of thought](https://vimeo.com/53144573)**
 
-Update system node:
+
+Tip:
+- Linux: sudo apt-get install <package name>
+- brew install <package name>
+
+
+We're going to use Javascript so let's update/install node:
 *SWBAT: Install / upgrade the system node from nodejs.org, know where to get node.js from*
 - install [node](https://nodejs.org/en/download/)
 
@@ -41,7 +51,7 @@ We will use nvm to manage node versions we may need:
 
 We may need yarn, an alternative node package manager:
 *SWBAT: Install yarn, show familiarity with yarn*
-- brew install yarn --without-node
+- install [yarn](https://yarnpkg.com/) --without-node
 
 
 ## [How the internet works (infographic)](http://visual.ly/how-internet-works)
