@@ -18,10 +18,12 @@ This schedule is grossly biased toward *nix operating systems: This means you ne
 <img src="http://i.imgur.com/g9LiMF9.jpg" width="640">
 We need to install development tools and editors. We don't know which editor will suit a person so let's keep options open.
 
-*SWBAT: install packages, upgrade the terminal, show basic familiarity with editors, see accelerated development with vi/vim*
-- install [brew](http://brew.sh/)/[aptitude](http://askubuntu.com/questions/311130/what-does-sudo-apt-get-install-aptitude-do)
-- sudo apt-get update or brew update / brew doctor, xcode update, xcode-select --install
+*SWBAT: install packages, upgrade the terminal, show basic familiarity with editors, (optional:see accelerated development with vi/vim*)
 - install iTerm or Terminator (Linux): [OSX - iTerm2](https://www.iterm2.com/downloads.html)
+- install [brew](http://brew.sh/)(OSX)/[aptitude](http://askubuntu.com/questions/311130/what-does-sudo-apt-get-install-aptitude-do)(Linux)
+- sudo apt-get update or brew update / brew doctor, xcode update, xcode-select --install
+
+(Optional)
 - install / update vim [OSX help](http://www.prioritized.net/blog/upgrading-vim-on-os-x/)
 - install VS Code with vim (#TODO why)
 - install Atom with vim
