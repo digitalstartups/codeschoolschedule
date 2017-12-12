@@ -42,14 +42,17 @@ Tip:
 
 
 We're going to use Javascript so let's update/install node:
+
 *SWBAT: Install / upgrade the system node from nodejs.org, know where to get node.js from*
 - install [node](https://nodejs.org/en/download/)
 
 We will use nvm to manage node versions we may need:
+
 *SWBAT: Install nvm, change node version*
 - install [nvm](https://github.com/creationix/nvm)
 
 We may need yarn, an alternative node package manager:
+
 *SWBAT: Install yarn, show familiarity with yarn*
 - install [yarn](https://yarnpkg.com/) --without-node
 
@@ -64,6 +67,7 @@ We may need yarn, an alternative node package manager:
 
 
 ## Tooling & Tool practice
+
 *SWBAT: Become familiar with vi/vim, know how to communicate with different teams in Slack*
 - [shortcutfoo](https://www.shortcutfoo.com/) Vim units 1 & 2 (free - for now)
 - watch/read/learn more **[vimcasts.org](http://vimcasts.org/)**
@@ -73,6 +77,7 @@ We may need yarn, an alternative node package manager:
 
 
 ## Learning HTML/CSS/JQuery
+
 *SWBAT: HTML syntax and usage, HTML structures, Markdown, CSS syntax and purpose, JQuery basics (for manipulating HTML/CSS elements)*
 - [Nodeschool: LearnYouHTML](https://github.com/denysdovhan/learnyouhtml)
 - [Khan Academy HTML/CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
@@ -83,10 +88,12 @@ We may need yarn, an alternative node package manager:
 
 
 ## Learning the command line
+
 *SWBAT: Navigate around the command line, be familiar with basic command line tools*
 - [Learn the command line - Codecademy](https://www.codecademy.com/en/courses/learn-the-command-line/) (3 hours)
 - Optional: [Ryans Tutorials: Linux Tutorial](http://ryanstutorials.net/linuxtutorial/)
 
+(#TODO make code folder)
 
 
 # Basic II (Basic JavaScript and tooling)
@@ -94,6 +101,7 @@ We may need yarn, an alternative node package manager:
 This section is about learning the basics of JavaScript and how version control and authentication tools work
 
 ## Basic JavaScript
+
 *SWBAT: Understand basic JavaScript syntax, understand basic JavaScript data structures, read/write code with regards to scope*
 - [Nodeschool: Javascripting](https://github.com/sethvincent/javascripting)
 - [Mutating vs non-mutating array methods](http://lorenstewart.me/2017/01/22/javascript-array-methods-mutating-vs-non-mutating/) (worth reviewing when you get to the "Looping through arrays" lesson
