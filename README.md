@@ -80,7 +80,7 @@ Controlling versions of code (versioning) can be difficult, especially when ther
 - Key pairs theory (mentored session)
 - [Public-key Cryptography - Wikipedia](https://en.wikipedia.org/wiki/Public-key_cryptography)
 - [Generating SSH Keys - github](https://help.github.com/articles/generating-ssh-keys/)
-- [Nodeschool.io - git-it](https://github.com/jlord/git-it)
+- [Nodeschool.io - git-it](https://github.com/jlord/git-it-electron)
 - Reference: [Git Book](https://git-scm.com/book/en/v2)
 - [Joel Spolsky's Mercurial Tutorial](http://hginit.com/) (optional)
 
@@ -118,7 +118,7 @@ Controlling versions of code (versioning) can be difficult, especially when ther
 
 ## Basic JavaScript
 *SWBAT: Understand basic JavaScript syntax, understand basic JavaScript data structures, read/write code with regards to scope*
-- [Nodeschool: Javascripting](https://github.com/sethvincent/javascripting)
+- [Nodeschool.io - javascripting](https://github.com/sethvincent/javascripting)
 - [Mutating vs non-mutating array methods](http://lorenstewart.me/2017/01/22/javascript-array-methods-mutating-vs-non-mutating/) (worth reviewing when you get to the "Looping through arrays" lesson)
 - [Nodeschool.io - scope-chains-closures](https://github.com/jesstelford/scope-chains-closures)
 
@@ -130,21 +130,30 @@ Controlling versions of code (versioning) can be difficult, especially when ther
 
 ## Regex
 *SWBAT: Understand what a REGEX is and what it is for. Have practice and deciphering REGEXs*
+
 Regular Expressions (Regex) are used to 'pattern-match' strings, urls, data, and more. They are simple and effective, and usually fast to use
 
 - [Ryan's Tutorials: Regex Basics](http://ryanstutorials.net/regular-expressions-tutorial/regular-expressions-basics.php)
-- Optional Extra: Play [Regex Crossword!](https://regexcrossword.com/)
+- Play [Regex Crossword!](https://regexcrossword.com/) (optional)
 
 ## node.js
+*SWBAT: Set up a simple node web server*
 Node.js is the Server-side part of JavaScript that facilitates development build tools and other command line software, and servers.
 - [Nodeschool.io - learnyounode](https://github.com/workshopper/learnyounode)
 
 ## NPM
+*SWBAT: Set up a simple node web server*
 NPM is a tool for downloading JS packages/libraries from the NPM site.
 - [Nodeschool.io - how-to-npm](https://github.com/npm/how-to-npm)
 
 ## JavaScript: ES6 and more
 - [Nodeschool.io - count-to-6](https://github.com/domenic/count-to-6)
+
+## Optional Extras: Streams and Regex
+*SWBAT: Use REGEX, use node streams for piping information, make a desktop electron app*
+[Nodeschool.io - regex-adventure](https://github.com/substack/regex-adventure)
+[Nodeschool.io - stream-adventure](https://github.com/substack/stream-adventure)
+[Nodeschool.io - elementary-electron](https://github.com/maxogden/elementary-electron)
 
 
 
@@ -154,8 +163,7 @@ NPM is a tool for downloading JS packages/libraries from the NPM site.
 ### Server frameworks, SASS, and precompilers
 At this stage it's important to have got a handle on the Command Line and how HTML and CSS work before moving on
 DevOps - Ubuntu with ?
-- Optional Extra: [Nodeschool.io - regex-adventure](https://github.com/substack/regex-adventure)
-- Optional Extra: [Nodeschool.io - stream-adventure](https://github.com/substack/stream-adventure)
+
 - - tentative: [Nodeschool.io - lololodash](https://github.com/mdunisch/lololodash)
 - - tentative: [Nodeschool.io - planetproto](https://github.com/sporto/planetproto)
 - [Nodeschool.io - makemehapi](https://github.com/hapijs/makemehapi)
