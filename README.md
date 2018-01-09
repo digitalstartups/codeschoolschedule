@@ -68,11 +68,11 @@ We may need yarn, an alternative node package manager:
 
 ## Tooling & Tool practice
 
-*SWBAT: Become familiar with vi/vim, know how to communicate with different teams in Slack*
-- [shortcutfoo](https://www.shortcutfoo.com/) Vim units 1 & 2 (free - for now)
+*SWBAT: Become familiar with vi/vim (optional), know how to communicate with different teams in Slack*
+- [shortcutfoo](https://www.shortcutfoo.com/) Vim units 1 & 2 (free - for now) (optional)
 - watch/read/learn more **[vimcasts.org](http://vimcasts.org/)**
-- For later on: [vimgolf](https://github.com/igrigorik/vimgolf) or [vimgolf site](vimgolf.com)
-- a vim game: [Vim Adventures](http://vim-adventures.com/)
+- For later on: [vimgolf](https://github.com/igrigorik/vimgolf) or [vimgolf site](vimgolf.com) (optional)
+- a vim game: [Vim Adventures](http://vim-adventures.com/) (optional)
 - Learn/Install [Slack](https://slack.com/) - for team communication
 
 
