@@ -125,7 +125,7 @@ Controlling versions of code (versioning) can be difficult, especially when ther
 
 
 
-# Intermediate
+# Intermediate I
 *More Javascript proficiency, plus Regex, packages (NPM), ES6/7 language knowledge*
 
 ## Regex
