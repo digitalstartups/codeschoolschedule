@@ -64,6 +64,7 @@ We may need yarn, an alternative node package manager:
 - Networks
 - Servers
 - Clients (Web, News, Email)
+- diagram?
 
 ## Tools, Security, Version Control
 Controlling versions of code (versioning) can be difficult, especially when there is more than one person in a team, and more so when the team is distributed. Distributed Version Control Systems (DVCS) help to organise code and store it in the cloud for collaboration, security, and accessibility
@@ -71,7 +72,7 @@ Controlling versions of code (versioning) can be difficult, especially when ther
 ### Install the tools
 *SWBAT: Install version control tools, have an account on popular version control sites, understand the purpose of Markdown*
 - install [hg](https://mercurial.selenic.com/wiki/Download) & [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-- GitHub / Bitbucket (and DVCS)
+- GitHub / Bitbucket (and DVCS) (mentored session)
 - Discuss Markdown (mentored session)
 - [Learn about Markdown](http://markdowntutorial.com/) - nodeschool
 
