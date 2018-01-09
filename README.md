@@ -65,19 +65,36 @@ We may need yarn, an alternative node package manager:
 - Servers
 - Clients (Web, News, Email)
 
+## Tools, Security, Version Control
+Controlling versions of code (versioning) can be difficult, especially when there is more than one person in a team, and more so when the team is distributed. Distributed Version Control Systems (DVCS) help to organise code and store it in the cloud for collaboration, security, and accessibility
 
-## Tooling & Tool practice
+### Install the tools
+*SWBAT: Install version control tools, have an account on popular version control sites, understand the purpose of Markdown*
+- install [hg](https://mercurial.selenic.com/wiki/Download) & [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- GitHub / Bitbucket (and DVCS)
+- Discuss Markdown (mentored session)
+- [Learn about Markdown](http://markdowntutorial.com/) - nodeschool
 
+### Key pairs and authentication
+*SWBAT: Understand security keys and key pairs*
+- Key pairs theory (mentored session)
+- [Public-key Cryptography - Wikipedia](https://en.wikipedia.org/wiki/Public-key_cryptography)
+- [Generating SSH Keys - github](https://help.github.com/articles/generating-ssh-keys/)
+- [Nodeschool.io - git-it](https://github.com/jlord/git-it)
+- Reference: [Git Book](https://git-scm.com/book/en/v2)
+- [Joel Spolsky's Mercurial Tutorial](http://hginit.com/) (optional)
+
+### Vim, Slack, & Tool practice
 *SWBAT: Become familiar with vi/vim (optional), know how to communicate with different teams in Slack*
 - [shortcutfoo](https://www.shortcutfoo.com/) Vim units 1 & 2 (free - for now) (optional)
 - watch/read/learn more **[vimcasts.org](http://vimcasts.org/)**
 - For later on: [vimgolf](https://github.com/igrigorik/vimgolf) or [vimgolf site](vimgolf.com) (optional)
 - a vim game: [Vim Adventures](http://vim-adventures.com/) (optional)
 - Learn/Install [Slack](https://slack.com/) - for team communication
+- Tooling practice philosophy - why practice? (mentored session)
 
 
 ## Learning HTML/CSS/JQuery
-
 *SWBAT: HTML syntax and usage, HTML structures, Markdown, CSS syntax and purpose, JQuery basics (for manipulating HTML/CSS elements)*
 - [Nodeschool: LearnYouHTML](https://github.com/denysdovhan/learnyouhtml)
 - [Khan Academy HTML/CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
@@ -88,44 +105,31 @@ We may need yarn, an alternative node package manager:
 
 
 ## Learning the command line
-
 *SWBAT: Navigate around the command line, be familiar with basic command line tools*
 - [Learn the command line - Codecademy](https://www.codecademy.com/en/courses/learn-the-command-line/) (3 hours)
 - Optional: [Ryans Tutorials: Linux Tutorial](http://ryanstutorials.net/linuxtutorial/)
-
-(#TODO make code folder)
+- Make code folder $HOME/code
+- Make Nodeschool folder $HOME/code/nodeschool
 
 
 # Basic II (Basic JavaScript and tooling)
 <img src="http://i.imgur.com/6aclmM6.png" width="640">
-This section is about learning the basics of JavaScript and how version control and authentication tools work
+*This section is about learning the basics of JavaScript and simple programming*
 
 ## Basic JavaScript
-
 *SWBAT: Understand basic JavaScript syntax, understand basic JavaScript data structures, read/write code with regards to scope*
 - [Nodeschool: Javascripting](https://github.com/sethvincent/javascripting)
-- [Mutating vs non-mutating array methods](http://lorenstewart.me/2017/01/22/javascript-array-methods-mutating-vs-non-mutating/) (worth reviewing when you get to the "Looping through arrays" lesson
+- [Mutating vs non-mutating array methods](http://lorenstewart.me/2017/01/22/javascript-array-methods-mutating-vs-non-mutating/) (worth reviewing when you get to the "Looping through arrays" lesson)
 - [Nodeschool.io - scope-chains-closures](https://github.com/jesstelford/scope-chains-closures)
 
 
-## Tools, Security, Version Control
-Control code versions can be difficult, especially when there is more than one person, and more so when the team is distributed. Distributed version control systems (DVCS) help to organise code and store it in the cloud for collaboration, security, and accessibility
-
-### Install the tools
-- install [hg](https://mercurial.selenic.com/wiki/Download) & [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-- GitHub / Bitbucket (and DVCS)
-- [Learn about Markdown](http://markdowntutorial.com/) - nodeschool
-
-### Key pairs and authentication talk
-- Key pairs theory - Mentor explanation + Q&A
-- [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys/)
-- [Nodeschool.io - git-it](https://github.com/jlord/git-it)
-- Reference: [Git Book](https://git-scm.com/book/en/v2)
-- Optional: [Joel Spolsky's Mercurial Tutorial](http://hginit.com/)
 
 
 # Intermediate
+*More Javascript proficiency, plus Regex, packages (NPM), ES6/7 language knowledge*
+
 ## Regex
+*SWBAT: Understand what a REGEX is and what it is for. Have practice and deciphering REGEXs*
 Regular Expressions (Regex) are used to 'pattern-match' strings, urls, data, and more. They are simple and effective, and usually fast to use
 
 - [Ryan's Tutorials: Regex Basics](http://ryanstutorials.net/regular-expressions-tutorial/regular-expressions-basics.php)
@@ -143,7 +147,10 @@ NPM is a tool for downloading JS packages/libraries from the NPM site.
 - [Nodeschool.io - count-to-6](https://github.com/domenic/count-to-6)
 
 
+
 # Intermediate II
+*More Intermediate JavaScript*
+
 ### Server frameworks, SASS, and precompilers
 At this stage it's important to have got a handle on the Command Line and how HTML and CSS work before moving on
 DevOps - Ubuntu with ?
