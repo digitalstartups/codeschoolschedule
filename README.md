@@ -80,6 +80,7 @@ Controlling versions of code (versioning) can be difficult, especially when ther
 *SWBAT: Understand security keys and key pairs*
 - Key pairs theory (mentored session)
 - [Public-key Cryptography - Wikipedia](https://en.wikipedia.org/wiki/Public-key_cryptography)
+- Hashes - TODO
 - [Generating SSH Keys - github](https://help.github.com/articles/generating-ssh-keys/)
 - [Nodeschool.io - git-it](https://github.com/jlord/git-it-electron)
 - Reference: [Git Book](https://git-scm.com/book/en/v2)
